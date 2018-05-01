@@ -1,0 +1,14 @@
+{  
+   "mails":[  
+      {  
+         "emailAddress":"email@address.com",
+         "subject":"Test (from JSON)",
+         "content":"This an e-mail sent from a simple JAVA application"
+      },
+      {  
+         "emailAddress":"email2@address.com",
+         "subject":"Test (from JSON)",
+         "content":"This an e-mail sent from a simple JAVA application"
+      }
+   ]
+}
